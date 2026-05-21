@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1779322242 source:e:\code\utn\programacion1-20261c\semana 10\miercoles\minijuego\main.cpp
+	<iostream>
+	"menu.h"
+
+1779321161 e:\code\utn\programacion1-20261c\semana 10\miercoles\minijuego\menu.h
+
+1779323643 source:e:\code\utn\programacion1-20261c\semana 10\miercoles\minijuego\menu.cpp
+	<iostream>
+	"jugar.h"
+	"estadisticas.h"
+
+1779321892 source:e:\code\utn\programacion1-20261c\semana 10\miercoles\minijuego\jugar.cpp
+	<iostream>
+	"jugar.h"
+
+1779324027 e:\code\utn\programacion1-20261c\semana 10\miercoles\minijuego\jugar.h
+	<string>
+
+1779323293 source:e:\code\utn\programacion1-20261c\semana 10\miercoles\minijuego\estadisticas.cpp
+	<iostream>
+	"estadisticas.h"
+
+1779323063 e:\code\utn\programacion1-20261c\semana 10\miercoles\minijuego\estadisticas.h
+	<string>
+
