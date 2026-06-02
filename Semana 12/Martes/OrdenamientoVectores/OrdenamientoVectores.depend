@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1780440465 source:d:\utn\programacion1-20261c\semana 12\martes\ordenamientovectores\funcionesvectores.cpp
+	"funcionesVectores.h"
+	<iostream>
+
+1780439741 d:\utn\programacion1-20261c\semana 12\martes\ordenamientovectores\funcionesvectores.h
+
+1780440583 source:d:\utn\programacion1-20261c\semana 12\martes\ordenamientovectores\main.cpp
+	<iostream>
+	"funcionesVectores.h"
+
